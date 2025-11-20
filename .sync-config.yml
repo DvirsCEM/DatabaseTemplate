@@ -1,6 +1,0 @@
-files:
-- .vscode/settings.json
-- .vscode/tasks.json
-- DatabaseUtilities/DatabaseCore.cs
-- .gitignore
-- Project.csproj
